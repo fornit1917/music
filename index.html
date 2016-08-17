@@ -66,7 +66,18 @@
     </div>
 
     <div id="music" style="display: none">
-        <a href="#" id="back-to-categories" class="back-btn">⬅ Back to categories</a>
+        <div class="music-header-panel">
+            <a href="#" id="back-to-categories" class="back-btn">⬅ Back to categories</a>
+            <div class="filter-form">
+                <input class="filter-field" type="text" id="filter" placeholder="Filter"/>
+            </div>
+            <div class="paginator">
+                <span class="paginator-text">Showing <span id="paginator-current">...</span> / <span class="paginator-total">...</span> playlists</span>
+                <button class="paginator-btn">← Previous</button>
+                <button class="paginator-btn">Next →</button>
+            </div>
+        </div>
+
         <div id="playlists" class="playlists">
 
         </div>
