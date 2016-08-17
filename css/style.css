@@ -48,9 +48,14 @@ body {
     margin-top: 5px;
 }
 
-.playlists > div {
-    float: left;
+.playlists-column {
+    width: 500px;
     margin: 20px;
+    display: inline-block;
+    float: left;
+}
+.playlists-column > div {
+    margin-bottom: 20px;
 }
 
 .playlists {

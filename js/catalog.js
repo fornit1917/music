@@ -19,12 +19,13 @@ Catalog.init = function () {
 		}
 
 		if (categoryId !== Catalog.currentCategory) {
-			var html = [];
+			var columns = [[],[]];
 			for (var i=0; i<playlists.length; i++) {
-				html.push(playlists[i].html);
+				columns[i % 2].push(playlists[i].html);
 			}
-
-			$('#playlists').html(html.join(''));
+			var html = '<div class="playlists-column">' + columns[0].join('') + '</div>';
+			html += '<div class="playlists-column">' + columns[1].join('') + '</div>';
+			$('#playlists').html(html);
 		}
 		$('#music').show();
 		$('#category-list').hide();
