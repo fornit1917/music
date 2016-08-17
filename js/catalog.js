@@ -39,7 +39,7 @@ Catalog.init = function () {
 };
 
 Catalog.load = function () {
-	$.ajax('data/all.json').promise()
+	$.ajax('data/all.json?' + Math.random()).promise()
 		.done(function (resp) {
 			if (typeof resp === 'string') {
 				resp = JSON.parse(resp);
