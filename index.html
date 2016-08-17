@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="./css/style.css?1" />
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="./js/catalog.js"></script>
+    <meta charset="UTF-8">
+    <title>My VK Music Catalog</title>
+
+    <script>
+        $(document).ready(function () {
+            Catalog.init();
+        });
+    </script>
+</head>
+<body>
+    <div id="category-list" class="category-list">
+        <div class="category-item" data-category-id="metal">
+            <div class="category-item-inner">
+                <div class="category-item-image">
+                    <img src="./img/metal.jpg">
+                </div>
+                <div class="category-item-text-block">
+                    <h2 class="category-item-header">Metal</h2>
+                    <p class="category-item-small-text">Heavy, Power, Thrash, Melodic death/black/pagan</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="category-item" data-category-id="post">
+            <div class="category-item-inner">
+                <div class="category-item-image">
+                    <img src="./img/post.jpg">
+                </div>
+                <div class="category-item-text-block">
+                    <h2 class="category-item-header">Post</h2>
+                    <p class="category-item-small-text">Post metal, Post rock, Shoogaze</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="category-item" data-category-id="rurock">
+            <div class="category-item-inner">
+                <div class="category-item-image">
+                    <img src="./img/rurock.jpg">
+                </div>
+                <div class="category-item-text-block">
+                    <h2 class="category-item-header">Русский рок</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="category-item" data-category-id="misc">
+            <div class="category-item-inner">
+                <div class="category-item-image">
+                    <img src="./img/misc.jpg">
+                </div>
+                <div class="category-item-text-block">
+                    <h2 class="category-item-header">Misc</h2>
+                    <p class="category-item-small-text">Some playlists of all genres</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="music" style="display: none">
+        <a href="#" id="back-to-categories" class="back-btn">⬅ Back to categories</a>
+        <div id="playlists" class="playlists">
+
+        </div>
+    </div>
+
+</body>
+</html>

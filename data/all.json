@@ -1,0 +1,66 @@
+{
+  "metal": [
+    {
+      "html": "<div id=\"vk_post_1431411_1511\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_1431411_1511\", 1431411, 1511, 'CHTRaWy4FcsVDLX3_IXB855yDw', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_-8881618_362519\"></div><script type=\"text/javascript\">(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?125\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));(function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-8881618_362519\", -8881618, 362519, '7X69LCnYuuy-dqKyyK0vb5yjAg', {width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_-8881618_351112\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-8881618_351112\", -8881618, 351112, 'fEj_BYK56ItwD36G5eledOa6bg', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_-8881618_313524\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-8881618_313524\", -8881618, 313524, 'dBvV_RJ7tVNZxBlFATUDL3bLyA', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_-8881618_98351\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-8881618_98351\", -8881618, 98351, 'f2xrFhkxpNwSYSTVzWKgQ66ibg', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_-371313_214384\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-371313_214384\", -371313, 214384, 'XtS3DzwkR-GPPwkXlOA2TXQ9Kg', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    }
+  ],
+
+  "post": [
+    {
+      "html": "<div id=\"vk_post_-8881618_362854\" style=\"float:left\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-8881618_362854\", -8881618, 362854, 'diSHtsy-OtDTg8QxCiJwN5EyOg', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_1431411_1372\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_1431411_1372\", 1431411, 1372, 'LCWM7rZjZpEScnaSXQHTmA_HOQ', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_-26071073_50749\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-26071073_50749\", -26071073, 50749, 'esg1EL5hdDzBke0t8ntjOxC3Kg', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_-26071073_47950\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-26071073_47950\", -26071073, 47950, '9T9qTYn9uBnaur_zDOLZVAKW0g', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_-26071073_46547\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-26071073_46547\", -26071073, 46547, 'bS3deVRzaXP8r9VnqFiW-TOG_A', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_-36284587_51\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-36284587_51\", -36284587, 51, 'Mtm2lU9pKIVuqXXIUnweGGE1TA', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    }
+  ],
+
+  "rurock": [
+    {
+      "html": "<div id=\"vk_post_1431411_1506\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_1431411_1506\", 1431411, 1506, 'w2shQT2Lmo16VMBkQ3Xlo2JsMQ', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    }
+  ],
+
+  "misc": [
+    {
+      "html": "<div id=\"vk_post_1431411_1466\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_1431411_1466\", 1431411, 1466, 'cYk-5Du2G1_XtPZ2MkjwqAkG2w', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_1431411_1333\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_1431411_1333\", 1431411, 1333, '3ZGmnjSSsEQQ-5I8g4zfPH7k9Q', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_-8881618_324421\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-8881618_324421\", -8881618, 324421, 'rubKb6eJOkpKWpp5ujsV80Q2LQ', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "html": "<div id=\"vk_post_-8881618_134175\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-8881618_134175\", -8881618, 134175, '5IGWD1QJf-YzkRPFYfr2z3bUcA', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    }
+  ]
+
+
+}
