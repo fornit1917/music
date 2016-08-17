@@ -42,7 +42,7 @@ body {
 }
 
 .category-item-small-text {
-    font-size: 12px;
+    font-size: 14px;
     color: #959595;
     margin-top: 5px;
 }
@@ -65,4 +65,12 @@ body {
 }
 .back-btn:visited {
     color: #0645ad;
+}
+
+
+
+@media (max-width: 1024px) {
+    .category-item-inner {
+        width: 100%;
+    }
 }
