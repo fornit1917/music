@@ -19,6 +19,7 @@ Catalog.init = function () {
 	Catalog.$filterField = $('#filter');
 
 	Catalog.load();
+	Pager.init();
 
 	$('.category-item').on('click', function () {
 		if (Catalog.data === null) {
@@ -34,7 +35,8 @@ Catalog.init = function () {
 		}
 
 		if (categoryId !== Catalog.currentCategory) {
-			Catalog.showPlaylists(Catalog.data[categoryId]);
+			var pagePlaylists = Pager.setItems(Catalog.data[categoryId]);
+			Catalog.showPlaylists(pagePlaylists);
 		}
 		Catalog.$musicScreen.show();
 		Catalog.$categoriesScreen.hide();
@@ -48,6 +50,16 @@ Catalog.init = function () {
 	$('#back-to-categories').on('click', function () {
 		Catalog.$musicScreen.hide();
 		Catalog.$categoriesScreen.show();
+	});
+
+	$('#paginator-prev').on('click', function () {
+		var pagePlaylists = Pager.prev();
+		Catalog.showPlaylists(pagePlaylists);
+	});
+
+	$('#paginator-next').on('click', function () {
+		var pagePlaylists = Pager.next();
+		Catalog.showPlaylists(pagePlaylists);
 	});
 };
 
@@ -79,7 +91,8 @@ Catalog.restartFilterTimeout = function () {
 		Catalog.currentFilterQuery = query;
 		
 		var playlists = Catalog.filterPlaylists(query);
-		Catalog.showPlaylists(playlists);
+		var pagePlaylists = Pager.setItems(playlists);
+		Catalog.showPlaylists(pagePlaylists);
 	}, 1000);
 };
 
