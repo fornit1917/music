@@ -40,6 +40,10 @@
       "html": "<div id=\"vk_post_-26071073_45129\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-26071073_45129\", -26071073, 45129, 'xbCODoIvrbSpHJuJSJ-fWQsUsA', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
     },
     {
+      "tags": ["Solstafir"],
+      "html": "<div id=\"vk_post_-91332322_6546\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-91332322_6546\", -91332322, 6546, 'P_31Uof3qLrLVMpr9W2vepEItg', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>",
+    },
+    {
       "tags": ["Kontinuum", "Solstafir"],
       "html": "<div id=\"vk_post_-26071073_54304\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-26071073_54304\", -26071073, 54304, '7aJCfciXxYM4ws5YAJpKKcvXog', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
     },
