@@ -1,6 +1,14 @@
 {
   "metal": [
     {
+      "tags": ["Trna", "post", "black", "atmospheric"],
+      "html": "<div id=\"vk_post_-8881618_363113\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-8881618_363113\", -8881618, 363113, '4TL1l9yZ3ty3uIUPz9WI6Mu4qw', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "tags": ["growl", "viking", "pagan", "folk"],
+      "html": "<div id=\"vk_post_-8881618_363182\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-8881618_363182\", -8881618, 363182, '8uB2pyFfukaaKR98Mgbwwc_exQ', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
       "tags": ["metallica", "thrash", "heavy"],
       "html": "<div id=\"vk_post_1431411_1511\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_1431411_1511\", 1431411, 1511, 'CHTRaWy4FcsVDLX3_IXB855yDw', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
     },
@@ -27,6 +35,22 @@
   ],
 
   "post": [
+    {
+      "tags": ["Solstafir"],
+      "html": "<div id=\"vk_post_-26071073_45129\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-26071073_45129\", -26071073, 45129, 'xbCODoIvrbSpHJuJSJ-fWQsUsA', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "tags": ["Kontinuum", "Solstafir"],
+      "html": "<div id=\"vk_post_-26071073_54304\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-26071073_54304\", -26071073, 54304, '7aJCfciXxYM4ws5YAJpKKcvXog', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "tags": ["Perihelion", "solstafir", "metal", "vengr"],
+      "html": "<div id=\"vk_post_-26071073_61084\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-26071073_61084\", -26071073, 61084, 'Ab_vVUsuwmxwla8xLxcbSKs2gQ', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
+    {
+      "tags": ["Trna", "post", "black", "atmospheric"],
+      "html": "<div id=\"vk_post_-8881618_363113\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-8881618_363113\", -8881618, 363113, '4TL1l9yZ3ty3uIUPz9WI6Mu4qw', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
+    },
     {
       "tags": ["Képzelt Város", "Kepzelt Varos", "vengr"],
       "html": "<div id=\"vk_post_-8881618_362854\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?127\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-8881618_362854\", -8881618, 362854, 'diSHtsy-OtDTg8QxCiJwN5EyOg', {redesign: 1, width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
