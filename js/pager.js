@@ -1,5 +1,5 @@
 var Pager = {
-	PAGE_SIZE: 8,
+	PAGE_SIZE: 6,
 	pageNum: 0,
 	pageCount: 0,
 	items: [],
