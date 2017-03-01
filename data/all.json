@@ -44,6 +44,14 @@
 
   "post": [
     {
+      "tags": ["Piece Of Sky — Native Expectation", "railroad"],
+      "html": "<div id=\"vk_post_-26071073_73792\"><\/div><script type=\"text\/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"\/\/vk.com\/js\/api\/openapi.js?139\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-26071073_73792\", -26071073, 73792, '2F5je8GI-WXwkMBD2xSI8mbvdw', {width: 500})) setTimeout(arguments.callee, 50);  }());<\/script>"
+    },
+    {
+      "tags": ["Violet Cold", "electronic"],
+      "html": "<div id=\"vk_post_-26071073_73030\"><\/div><script type=\"text\/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"\/\/vk.com\/js\/api\/openapi.js?139\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-26071073_73030\", -26071073, 73030, '-7tC8W2bi0RrNfsBQr-eKDKIQQ', {width: 500})) setTimeout(arguments.callee, 50);  }());<\/script>"
+    },
+    {
       "tags": ["Violet Cold", "september", "electronic"],
       "html": "<div id=\"vk_post_-107912587_1409\"></div><script type=\"text/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"//vk.com/js/api/openapi.js?136\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-107912587_1409\", -107912587, 1409, 'CF4VEfbe38x6vxdUX2rfzaPUEg', {width: 500})) setTimeout(arguments.callee, 50);  }());</script>"
     },
