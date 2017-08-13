@@ -52,6 +52,10 @@
 
   "post": [
     {
+      "tags": ["Blak", "Post Metal"],
+      "html": "<div id=\"vk_post_-26071073_76666\"><\/div><script type=\"text\/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"\/\/vk.com\/js\/api\/openapi.js?146\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-26071073_76666\", -26071073, 76666, 'sm9FcHkfb2u_mDS04VcilOnc2Q', {width: 500})) setTimeout(arguments.callee, 50);  }());<\/script>"
+    },
+    {
       "tags": ["Audiolepsia"],
       "html": "<div id=\"vk_post_-26071073_76429\"><\/div><script type=\"text\/javascript\">  (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = \"\/\/vk.com\/js\/api\/openapi.js?146\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'vk_openapi_js'));  (function() {    if (!window.VK || !VK.Widgets || !VK.Widgets.Post || !VK.Widgets.Post(\"vk_post_-26071073_76429\", -26071073, 76429, 'HJcl4qlFck2pJiVOSva4gEapZw', {width: 500})) setTimeout(arguments.callee, 50);  }());<\/script>"
     },
