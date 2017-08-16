@@ -1,3 +1,5 @@
+var CATALOG_URL = "https://api.github.com/gists/a5168453131d17caf1e05681da10fe0e";
+
 var Catalog = {
 	data: null,
 	currentCategory: null,
@@ -64,18 +66,32 @@ Catalog.init = function () {
 };
 
 Catalog.load = function () {
-	$.ajax('data/all.json?' + Math.random()).promise()
-		.done(function (resp) {
-			if (typeof resp === 'string') {
-				resp = JSON.parse(resp);
-			}
-			for (var key in resp) {
-				for (var i = 0; i < resp[key].length; i++) {
-					resp[key][i].tags = resp[key][i].tags.map(function (item) { return item.toLowerCase() })
-				}
-			}
-			Catalog.data = resp;
-		});
+    $.ajax(CATALOG_URL).promise().then(function (resp) {
+        if (typeof resp !== "object") {
+            resp = JSON.parse(resp);
+        }
+        var lists = resp.files["gistfile1.txt"].content.split("\n\n")
+        var data = {};
+        for (var i = 0; i < lists.length; i++) {
+            var lines = lists[i].split("\n");
+            var genres = lines[0].split(",").map(function (item) { return item.trim() });
+            var tags = lines[1].split(",").map(function (item) { return item.trim().toLowerCase() });
+            var html = lines[2];
+
+            for (var j = 0; j < genres.length; j++) {
+                var genre = genres[j];
+                if (!data[genre]) {
+                    data[genre] = [];
+                }
+                data[genre].push({
+                    tags: tags,
+                    html: html,
+                });
+            }
+        }
+
+        Catalog.data = data;
+    });
 };
 
 Catalog.restartFilterTimeout = function () {
